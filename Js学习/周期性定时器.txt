@@ -1,0 +1,3 @@
+var a=setInterval(function(){alert(Math.random());},1000);
+
+Í£Ö¹£ºclearInterval(a);

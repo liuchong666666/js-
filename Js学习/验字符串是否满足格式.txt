@@ -1,0 +1,5 @@
+用RegExp正则对象
+ reg.test(str)//位数
+
+var s=qfbafa@qq.com
+reg.test(s);//查看是否满足格式
